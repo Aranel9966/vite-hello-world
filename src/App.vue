@@ -16,6 +16,7 @@
 
 <template>
   <AppTitle/>
+  <AppHero/>
 </template>
 
 <style scoped>
